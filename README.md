@@ -96,9 +96,7 @@ The output is constrained using a hyperbolic tangent activation to keep the pred
 The forward operator computes the measurement contribution of each image pixel based on the sensor geometry and a Gaussian kernel:
 
 $$
-K_{\lambda}(L_y)
-=
-\exp\left(-\frac{\lambda}{2}L_y^2\right)
+K_{\lambda}(L_y) = \exp\left(-\frac{\lambda}{2}L_y^2\right)
 $$
 
 The physical parameter $\lambda$ is fixed during training, while the sensor-position perturbation is learned.
