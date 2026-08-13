@@ -51,3 +51,5 @@ This corresponds to an improvement in SSIM from 0.820 to 0.864.
 ## Poster
 
 ## Acknowledgments
+
+This project was conducted during my research experience in the Department of Electrical and Computer Engineering at Rice University, under the guidance of my research mentor, Mitchell Roddenburry, and my advisor, Professor Richard Baraniuk.
