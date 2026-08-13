@@ -151,12 +151,13 @@ The results compare:
 | AI Calibrated | Learned $\epsilon_{\theta}(s)$ | Improved reconstruction |
 
 <p align="center">
-  <img src="ssim_scores.jpeg" width="850">
+  <img src="ssim_scores.jpg" width="420">
 </p>
 
 ## Repository Structure
+```text
 .
-├── dayXX_*.py
+├── DayXX_*.py
 │   └── Mathematical and experimental exercises developed during the research process
 │
 ├── training_first_try.py
