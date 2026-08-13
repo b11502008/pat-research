@@ -180,6 +180,12 @@ The results compare:
 │
 └── README.md
 
+### Research Development
+
+The DayXX scripts document the mathematical and computational development of the project, including function approximation, neural-network regression, forward modeling, and inverse reconstruction experiments.
+
+The later scripts progressively integrate these components into the final calibration pipeline.
+
 ## My Contribution
 
 I was responsible for developing and integrating the learning-based sensor calibration pipeline, with a focus on connecting the mathematical model, physical forward operator, neural network, and image reconstruction components.
