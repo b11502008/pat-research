@@ -175,7 +175,7 @@ The results compare:
 ├── final_realistic_problems.py
 │   └── Final end-to-end sensor calibration and reconstruction pipeline
 │
-├── *.png
+├── figures/
 │   └── Training, calibration, and reconstruction visualizations
 │
 └── README.md
