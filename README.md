@@ -154,38 +154,6 @@ The results compare:
   <img src="ssim_scores.jpg" width="420">
 </p>
 
-## Repository Structure
-```text
-.
-├── DayXX_*.py
-│   └── Mathematical and experimental exercises developed during the research process
-│
-├── training_first_try.py
-│   └── Initial neural-network regression experiment
-│
-├── visualize_prediction_performance.py
-│   └── 2D function approximation and neural-network visualization
-│
-├── visualize_image_USTdata.py
-│   └── Initial UST forward-model and measurement-space visualization
-│
-├── visualize_loss_and_perturbance_function.py
-│   └── First learning experiment for the sensor perturbation function
-│
-├── final_realistic_problems.py
-│   └── Final end-to-end sensor calibration and reconstruction pipeline
-│
-├── figures/XX.png
-│   └── Training, calibration, and reconstruction visualizations
-│
-└── README.md
-
-### Research Development
-
-The DayXX scripts document the mathematical and computational development of the project, including function approximation, neural-network regression, forward modeling, and inverse reconstruction experiments.
-
-The later scripts progressively integrate these components into the final calibration pipeline.
-
 ## My Contribution
 
 I was responsible for developing and integrating the learning-based sensor calibration pipeline, with a focus on connecting the mathematical model, physical forward operator, neural network, and image reconstruction components.
